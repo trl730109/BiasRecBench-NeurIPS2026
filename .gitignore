@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded datasets
+BiasRecBench/
+
+# Evaluation results
+*/results/
+
+# Logs
+*.log
+
+# Runtime generation and evaluation outputs
+outputs/

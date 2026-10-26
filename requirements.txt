@@ -1,0 +1,9 @@
+datasets
+openai
+tqdm
+requests
+pandas
+pyarrow
+torch
+transformers
+# Optional local GPU inference: pip install vllm
